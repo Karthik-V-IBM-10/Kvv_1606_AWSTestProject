@@ -1,0 +1,9 @@
+version: "1.0"
+projectName: Kvv_1606_AWSTestProject
+runtimes:
+- runtimeAlias: kvv_1606_AWSTest
+  assets:
+  - name: fld_111748608_stage00.projects.fl46901762d7ce4537beccb4fc75471c1a.integrations:tppfcs
+    type: flow
+    stepId: /0
+    reference: fld_111748608_stage00.projects.fl46901762d7ce4537beccb4fc75471c1a.WmPackageServiceProvider.SIQACloudStreamsTests:connetorOperations
