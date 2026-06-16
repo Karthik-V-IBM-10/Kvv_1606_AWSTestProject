@@ -7,3 +7,7 @@ runtimes:
     type: flow
     stepId: /0
     reference: fld_111748608_stage00.projects.fl46901762d7ce4537beccb4fc75471c1a.WmPackageServiceProvider.SIQACloudStreamsTests:connetorOperations
+  - name: fld_111748608_stage00.projects.fl46901762d7ce4537beccb4fc75471c1a.integrations:tppfcs
+    type: flow
+    stepId: /1
+    reference: fld_111748608_stage00.projects.fl46901762d7ce4537beccb4fc75471c1a.WmPackageServiceProvider.SIQAJDBCAdapterTests.adapterServices:getData
