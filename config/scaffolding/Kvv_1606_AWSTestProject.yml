@@ -31,11 +31,6 @@ packages:
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
-- name: DADA_GlobalVariable1
-  gitServerName: SIQAGitHubTest
-  gitUrl: https://github.com/manoj-jannu-IBM
-  gitUsername: manoj-jannu-IBM
-  gitBranch: main
 services:
 - serviceName: project.kvv_1606_awstest.integrations:AlertsCRTandERT
   packages:
