@@ -8,6 +8,12 @@ packages:
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
 - name: SIQAJDBCAdapterTests
+  version: "1.0"
+  gitServerName: SIQAGitHubTest
+  gitUrl: https://github.com/manoj-jannu-IBM
+  gitUsername: manoj-jannu-IBM
+  gitBranch: main
+- name: SIQACloudStreamsTests
   gitServerName: SIQAGitHubTest
   gitUrl: https://github.com/manoj-jannu-IBM
   gitUsername: manoj-jannu-IBM
